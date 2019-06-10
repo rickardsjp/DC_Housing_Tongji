@@ -113,3 +113,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 G Logistic Regression MNIST.ipynb
+weights.hdf5
