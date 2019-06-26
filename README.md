@@ -1,6 +1,6 @@
 # DC_Housing_Tongji
 
-##relevant notebooks:
+## relevant notebooks:
 
 Data_Explorations and DC_Housing_Correlations -> data exploration
 
