@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 G Logistic Regression MNIST.ipynb
 weights.hdf5
+.Rproj.user
